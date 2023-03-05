@@ -1,0 +1,9 @@
+*.exe
+*.out
+*.o
+/BLAS-3.10.0/*
+/BLAS_examples/*
+/CBLAS/*
+/xianyi-OpenBLAS-0b678b1/*
+build/*
+test/*

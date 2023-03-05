@@ -1,0 +1,18 @@
+INSTALLATION GUIDE FOR BLAS
+...........................
+tested for WSL on Windows
+
+BLAS
+---
+Download blas-3.10.0.tgz from http://www.netlib.org/blas/
+extract it
+cd BLAS
+make
+if it doesn’t work, you need to install the fortran compiler (sudo apt-get install gfortran)
+
+CBLAS
+----
+download cblas.tgz from http://www.netlib.org/blas/
+extract it
+cd CBLAS
+make
